@@ -1,3 +1,4 @@
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ArgaAAL.Solana-Forensics)
 # Nara: AI-Powered Trade Execution Cost Predictor
 
 Nara is an advanced machine learning project designed to predict the true execution cost of a cryptocurrency trade. It moves beyond simple price comparison by modeling complex market dynamics like slippage and liquidity to provide realistic cost estimations and recommend the optimal exchange for execution.
